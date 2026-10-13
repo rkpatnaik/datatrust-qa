@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+ 
+# Virtual environments
+.venv/
+venv/
+ 
+# Local environment and secrets
+.env
+.env.*
+ 
+# Local databases
+*.duckdb
+*.duckdb.wal
+ 
+# Generated data
+data/generated/*
+!data/generated/.gitkeep
+ 
+# Generated reports
+reports/*
+!reports/.gitkeep
+ 
+# Editor and operating system files
+.vscode/
+.DS_Store
