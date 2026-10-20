@@ -1,4 +1,4 @@
-Job_Grade_Key,Job_Grade_Cde,Job_Grade_Descr,Job_Grade_Band,Job_Grade_Scale,Job_Grade_Collation,Create_User,Modified_User,Create_Dte,Modified_Dte,MHG_Occupational_Level,MHG_Occupational_Level_Sort_Key
+Job_Grade_Key,Job_Grade_Cde,Job_Grade_Descr,Job_Grade_Band,Job_Grade_Scale,Job_Grade_Collation,Create_User,Modified_User,Create_Dte,Modified_Dte,MOCK_Occupational_Level,MOCK_Occupational_Level_Sort_Key
 1,EX,Executive,F,Scale 10,010,ETL_SVC,ETL_SVC,2012-01-09T08:00:01,2012-01-09T08:00:01,Top Management,1
 2,SM1,Senior Manager,E,Scale 9,020,ETL_SVC,ETL_SVC,2012-01-09T08:00:02,2012-01-09T08:00:02,Senior Management,2
 3,SM2,Senior Specialist,E,Scale 8,030,ETL_SVC,ETL_SVC,2012-01-09T08:00:03,2012-01-09T08:00:03,Senior Management,2
