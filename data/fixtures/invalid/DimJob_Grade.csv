@@ -1,0 +1,11 @@
+Job_Grade_Key,Job_Grade_Cde,Job_Grade_Descr,Job_Grade_Band,Job_Grade_Scale,Job_Grade_Collation,Create_User,Modified_User,Create_Dte,Modified_Dte,MHG_Occupational_Level,MHG_Occupational_Level_Sort_Key
+1,EX,Executive,F,Scale 10,010,ETL_SVC,ETL_SVC,2012-01-09T08:00:01,2012-01-09T08:00:01,Top Management,1
+2,SM1,Senior Manager,E,Scale 9,020,ETL_SVC,ETL_SVC,2012-01-09T08:00:02,2012-01-09T08:00:02,Senior Management,2
+3,SM2,Senior Specialist,E,Scale 8,030,ETL_SVC,ETL_SVC,2012-01-09T08:00:03,2012-01-09T08:00:03,Senior Management,2
+4,M1,Manager,D,Scale 7,040,ETL_SVC,ETL_SVC,2012-01-09T08:00:04,2012-01-09T08:00:04,Professionally Qualified and Mid-Management,3
+5,M2,Professional / Specialist,D,Scale 6,050,ETL_SVC,ETL_SVC,2012-01-09T08:00:05,2012-01-09T08:00:05,Professionally Qualified and Mid-Management,3
+6,S1,Supervisor / Senior Technician,C,Scale 5,060,ETL_SVC,ETL_SVC,2012-01-09T08:00:06,2012-01-09T08:00:06,Skilled Technical and Junior Management,4
+7,S2,Registered Nurse / Technician,C,Scale 4,070,ETL_SVC,ETL_SVC,2012-01-09T08:00:07,2012-01-09T08:00:07,Skilled Technical and Junior Management,4
+8,S3,Enrolled Nurse / Administrator,B,Scale 3,080,ETL_SVC,ETL_SVC,2012-01-09T08:00:08,2012-01-09T08:00:08,Semi-Skilled and Discretionary Decision Making,5
+9,U1,Clerk / Assistant,B,Scale 2,090,ETL_SVC,ETL_SVC,2012-01-09T08:00:09,2012-01-09T08:00:09,Semi-Skilled and Discretionary Decision Making,5
+10,U2,General Assistant,A,Scale 1,100,ETL_SVC,ETL_SVC,2012-01-09T08:00:10,2012-01-09T08:00:10,Unskilled and Defined Decision Making,6
